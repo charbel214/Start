@@ -18,8 +18,8 @@ Console.WriteLine($"{f + a}");
 Console.WriteLine($"{f + c}");
 // TODO: Create an instance of a struct (which is a value type)
 s s1;
- s1.a = 5;
- s1.b = false;
+s1.a = 5;
+ s1.b = false;
 
 // Perform an operation on a struct
 void StructOp(s theStruct) {
